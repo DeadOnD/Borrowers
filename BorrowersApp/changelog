@@ -1,0 +1,171 @@
+WhoHasMyStuff (1.0.24)
+
+  * Use autocomplete for contact names and descriptions
+  * Updated French translation
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.23)
+
+  * Reverting autocomplete change
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.22)
+
+  * Use autocomplete for contact names
+  * Updated Czech and Galician translation
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.21)
+
+  * Display date of last modification
+  * Fixed date selector for calendar entry
+  * Updated French app name
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.20)
+
+  * Added Czech translation (thanks to Jaroslav Lichtblau)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.19)
+
+  * Added Italian translation (thanks to Valerio Bozzolan)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.18)
+
+  * Improved Serbian translation
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.17)
+
+  * Added Serbian translation (thanks to Mladen Pejaković)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.16)
+
+  * Added Japanese translation (thanks to Naofumi F)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.15)
+
+  * Added button in top right corner to add new items quickly
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.14)
+
+  * Adding Catalan translation (thanks to jmontane)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.13)
+
+  * If a backup file is present, ask if it should be restored on first start
+  * Added Dutch translation (thanks to Jan Van Humbeek)
+  * Added Galician translation (thanks to Xesús M. Mosquera Carregal)
+  * Updated Russian, Ukrainian, French, and German translations
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.12)
+
+  * Added Spanish translation (thanks to Daniel Villarreal)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.11)
+
+  * Added Danish translation (thanks to Seaclean)
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.10)
+
+  * Updated translations
+  * Added Hungarian translation (thanks to andriykopanytsia)
+  * Added Russian translation (thanks to Sergey Kondakov)
+  * Show correct duration if item was lent yesterday
+  * Option to reuse items from history
+  * Clarify usage of date field when adding new items
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.9)
+
+  * Updated translations
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.8)
+
+  * Added Hungarian translation
+  * Added Russian translation
+  * Show correct duration if item was lent yesterday
+  * Option to reuse items from history
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.7)
+
+  * Added french translation
+  * Fixed sorting order
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.6)
+
+  * Fixed crash on ICS devices
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.5)
+
+  * Added brazilian portuguese translation
+  * Added hebrew translation
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.4)
+
+  * Provide type selector (book, movie, money, ...) for each item
+  * Improved english translation
+  * Hide soft input when opening edit view
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.3)
+
+  * Allow creation of calendar event for expected return of items
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.2)
+
+  * Fixed backup data for certain characters
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0.1)
+
+  * Create example data on first start
+  * Added "Mark as returned" submenu entry
+  * Ask before overwriting backup file
+  * Fixed backup data for certain characters
+
+-- Stephan Windmüller <stovocor@gmail.com>
+
+WhoHasMyStuff (1.0)
+
+  * First release
+
+-- Stephan Windmüller <stovocor@gmail.com>
